@@ -1,4 +1,4 @@
-# DOI Title Matcher
+# Title DOI Matcher
 
 `DOI Title Matcher` is a small Python script that looks up paper titles through Crossref and OpenAlex, then writes matched DOIs into a new Excel file.
 
